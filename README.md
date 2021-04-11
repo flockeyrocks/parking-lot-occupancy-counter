@@ -10,7 +10,6 @@ Diagram:
 ![Diagram](Diagram.PNG)
 
 
-https://youtu.be/KHSgtRWr5Lo
 
 Demo Video: 
 
